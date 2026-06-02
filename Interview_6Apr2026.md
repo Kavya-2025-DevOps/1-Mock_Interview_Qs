@@ -1,7 +1,7 @@
 ******************************* M tiwari ***********************************
 
 
-Actual questions asked in the interview (approximately)  
+
 What are your day-to-day responsibilities?  
 How would you troubleshoot a failing pod in EKS?  
 How would you troubleshoot application latency?  
