@@ -27,3 +27,22 @@ Your monitoring dashboard says there’s a problem. But these commands helps you
 *️⃣vmstat - Quickly identify CPU, memory, and system bottlenecks
 *️⃣ iostat - Detect storage and disk I/O issues
 *️⃣ journalctl - Investigate service failures and system events
+
+
+##
+
+1. An EC2 instance passes status checks but the app on port 80 doesn't respond. Walk through every layer you check.
+2. Explain a real scenario where adding more EC2 capacity made latency worse, not better.
+3. How do you safely rotate IAM credentials in production without breaking active sessions?
+4. What problems arise when multiple services share the same security group, and how do you design around it?
+5. Difference between Security Group and NACL - and why misunderstanding this opens production to attack.
+6. How do you handle secrets in AWS without exposing them in environment variables or Lambda config?
+7. Explain cost drift. How do you detect a silent billing spike before it shows up on the invoice?
+8. What happens internally when an S3 bucket policy and IAM policy conflict on the same action?
+9. How do you design a multi-account AWS setup without permissions becoming tightly coupled?
+10. Explain NAT Gateway vs NAT Instance vs VPC Endpoint - when does choosing wrong waste money?
+11. How does cross-account role assumption actually work, and why is it dangerous if misconfigured?
+12. How do you refactor a flat VPC into private/public subnets without taking production down?
+13. What are partial failovers, and how do you recover safely during a Multi-AZ RDS failure?
+14. What is the real difference between an Elastic IP and a Public IP, and why does that matter at scale?
+15. Describe a real incident caused by an overly permissive IAM policy. How did you fix it?
