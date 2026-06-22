@@ -1,0 +1,14 @@
+Q1. Can you introduce yourself and explain your professional experience?
+Q2. Can you explain the end-to-end CI/CD pipeline in your current project?
+Q3. What Jenkins strategy did you use in your project, and what type of Jenkins pipeline did you implement?
+Q4. How did you secure sensitive data and secrets in your project?
+Q5. What is a Canary Deployment, and when would you use it?
+Q6. What is Blue-Green Deployment, and how does it differ from Canary Deployment?
+Q7. Which deployment strategy would you recommend for a real-time production project, and why?
+Q8. Could you explain AWS Lambda and its common use cases?
+Q9. What is the difference between AWS Lambda and AWS Fargate?
+Q10. What monitoring tools have you used in your current project, and how have you used them?
+Q11. What is S3 Bucket Versioning, and why is it important?
+Q12. How do you design and manage microservices in your project?
+Q13. How have you used Karpenter to optimize Kubernetes cluster costs?
+Q14. If a production deployment fails, how would you troubleshoot the issue and recover from it?
