@@ -12,3 +12,18 @@ Q11. What is S3 Bucket Versioning, and why is it important?
 Q12. How do you design and manage microservices in your project?
 Q13. How have you used Karpenter to optimize Kubernetes cluster costs?
 Q14. If a production deployment fails, how would you troubleshoot the issue and recover from it?
+
+
+##
+
+"7 Linux Commands Every DevOps Engineer Should Know Before Production Breaks"
+
+Your monitoring dashboard says there’s a problem. But these commands helps you understand what the problem actually is.
+
+*️⃣lsof - Find which process is holding a port or file
+*️⃣ss - Inspect active network connections and listening ports
+*️⃣strace - See what a process is doing under the hood
+*️⃣tcpdump - Capture and analyze network traffic in real time
+*️⃣vmstat - Quickly identify CPU, memory, and system bottlenecks
+*️⃣ iostat - Detect storage and disk I/O issues
+*️⃣ journalctl - Investigate service failures and system events
